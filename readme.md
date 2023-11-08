@@ -12,9 +12,8 @@ This rounding calculator rounds off numbers to the nearest whole number, signifi
 3. Activate the [Rounding Calculator](https://www.calculator.io/rounding-calculator/ "Rounding Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 ## Usage
-* Add the shortcode `[ci_rounding_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Rounding Calculator to the sidebar through the `Appearance -> Widgets -> Rounding Calculator` menu in WordPress.
-* Add the following code: `<?php display_ci_rounding_calculator(); ?>` to your template where you would like the Rounding Calculator to appear.
+* Add the shortcode `[ci_rounding_calculator]` to your page, post or sidebar.
+* Or add the following code: `<?php display_ci_rounding_calculator(); ?>` to your template where you would like the Rounding Calculator to appear.
 
 ## Libraries in Use
 1. https://mathjs.org/

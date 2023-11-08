@@ -33,8 +33,7 @@ Libraries in use:
 2. Activate the [Rounding Calculator](https://www.calculator.io/rounding-calculator/ "Rounding Calculator Homepage") plugin through the "Plugins" menu in WordPress.
 
 == Usage ==
-* Add the shortcode `[ci_rounding_calculator]` to your page or post and configure default mortgage parameters.
-* If you are using widgets, just add the Rounding Calculator to the sidebar through the `Appearance -> Widgets -> Rounding Calculator` menu in WordPress.
+* Add the shortcode `[ci_rounding_calculator]` to your page, post or sidebar.
 * Add the following code: `<?php display_ci_rounding_calculator(); ?>` to your template where you would like the Rounding Calculator to appear.
 
 == Screenshots ==
