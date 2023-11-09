@@ -13,6 +13,8 @@ This rounding calculator rounds off numbers to the nearest whole number, signifi
 
 This rounding calculator rounds off numbers to the nearest whole number, significant digit, or decimal place. You can round the decimal numbers to the nearest tenths, hundredths, or thousandths.
 
+[Rounding Calculator Homepage](https://www.calculator.io/rounding-calculator/ "Rounding Calculator Homepage")
+
 __Shortcode__
 
 Use the Rounding Calculator shortcode:
