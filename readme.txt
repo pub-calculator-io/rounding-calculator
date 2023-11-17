@@ -1,6 +1,6 @@
 === Rounding Calculator by Calculator.iO ===
 Contributors: calculatorio
-Tags: 
+Tags: rounding calculator, nearest whole number rounding, significant digit approximation, decimal place rounding, simplifying decimal numbers, rounding large numbers, mathematical rounding methods, rounding error calculation, rounding to tens, hundreds, thousands, digit place significance in rounding
 Requires at least: 5.0
 Tested up to: 6.4.0
 Stable tag: 1.0.0
