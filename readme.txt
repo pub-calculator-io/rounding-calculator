@@ -1,4 +1,4 @@
-=== Rounding Calculator by Calculator.iO ===
+=== Rounding Calculator ===
 Contributors: calculatorio
 Tags: rounding calculator, nearest whole number rounding, significant digit approximation, decimal place rounding, simplifying decimal numbers, rounding large numbers, mathematical rounding methods, rounding error calculation, rounding to tens, hundreds, thousands, digit place significance in rounding
 Requires at least: 5.0
