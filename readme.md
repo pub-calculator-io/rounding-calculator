@@ -1,4 +1,4 @@
-# Rounding Calculator WordPress Widget by [Calculator.iO](https://www.calculator.io/ "Calculator.iO Homepage")
+# Rounding Calculator Widget for WordPress
 
 This rounding calculator rounds off numbers to the nearest whole number, significant digit, or decimal place. You can round the decimal numbers to the nearest tenths, hundredths, or thousandths.
 
