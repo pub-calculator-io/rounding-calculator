@@ -1,6 +1,6 @@
 <?php
 /*
-Plugin Name: Rounding Calculator by www.calculator.io
+Plugin Name: CI Rounding calculator
 Plugin URI: https://www.calculator.io/rounding-calculator/
 Description: This rounding calculator rounds off numbers to the nearest whole number, significant digit, or decimal place. You can round the decimal numbers to the nearest tenths, hundredths, or thousandths.
 Version: 1.0.0
