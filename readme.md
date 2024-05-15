@@ -3,7 +3,6 @@
 This rounding calculator rounds off numbers to the nearest whole number, significant digit, or decimal place. You can round the decimal numbers to the nearest tenths, hundredths, or thousandths.
 
 ![Rounding Calculator Input Form](/assets/images/screenshot-1.png "Rounding Calculator Input Form")
-![Rounding Calculator Calculation Results](/assets/images/screenshot-2.png "Rounding Calculator Calculation Results")
 
 ## Installation
 

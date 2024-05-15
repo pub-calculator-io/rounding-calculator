@@ -24,7 +24,6 @@ Add the following code to your template where you would like the Rounding Calcul
 == Screenshots ==
 
 1. The Rounding Calculator Input Form.
-2. The Rounding Calculator Calculation Results.
 
 == Installation ==
 
